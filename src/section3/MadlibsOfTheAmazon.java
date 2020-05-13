@@ -18,8 +18,8 @@ public class MadlibsOfTheAmazon {
 		String Verb = JOptionPane.showInputDialog(null, "choose a verb");
 		// Get the user to enter a place
 		String Place = JOptionPane.showInputDialog(null, "choose a setting");
-		// Fit the user's words into this sentence, and save it in a String:
-		// Piranhas are more [adjective] during the day, so cross the river at
+		//Fit the user's words into this sentence, and save it in a String:
+		//Piranhas are more [adjective] during the day, so cross the river at
 		// night. Piranhas are attracted to fresh [type of liquid] and will most
 		// likely take a bite out of your [body part] if you [verb]. Whatever
 		// you do, if you have an open wound, try to find another way to get
